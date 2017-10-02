@@ -3,7 +3,7 @@
 catalogo-serve es un microservicio **Resource server** que se autentica y autoriza con el [Authorization serve].
 
 
-![Image of Yaktocat](https://github.com/upeu-001-pro/catalogo-serve/blob/master/media/doc/e2-resource_server_catalogo_service.png)
+![Image of Yaktocat](https://github.com/upeu-001-pro/catalogo-serve/blob/master/media/e2-resource_server_catalogo_service.png)
 
 
 
