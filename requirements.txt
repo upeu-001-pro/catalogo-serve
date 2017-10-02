@@ -1,0 +1,13 @@
+dj-database-url==0.4.1
+Django==1.11.5
+django-cors-headers==2.1.0
+django-oauth-toolkit==1.0.0
+djangorestframework==3.6.4
+docutils==0.14
+gunicorn==19.6.0
+oauthlib==2.0.4
+Pillow==4.2.1
+psycopg2==2.6.2
+whitenoise==3.2
+https://github.com/practian-reapps/django-oauth2-backend/raw/master/dist/django-oauth2-backend-0.1.zip
+https://github.com/practian-reapps/django-backend-utils/raw/master/dist/django-backend-utils-0.1.zip
